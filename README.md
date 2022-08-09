@@ -1,6 +1,3 @@
-# CPP-Projects
-C++ Projects
-
 Project Title: Mad Libs
 
 Project Description: This is a C++ program that simulates the pencil and paper game, Mad Libs.
